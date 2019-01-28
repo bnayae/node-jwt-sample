@@ -1,0 +1,4 @@
+credit: https://getpocket.com/a/read/2000761086
+
+- npm i -S express jsonwebtoken
+- npm i -g nodemon
